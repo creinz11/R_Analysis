@@ -50,8 +50,9 @@ Sensors in the dummy — or dummies, in the case of passenger-side small overlap
 
 ### Hypotheses
 
-HO: The MechaCar does not perform better in the Front Crash Test than the competitons comparable car
-HA: The MechaCar does perform better in the Front Crash Test than the competitions comparable car
+HO: The MechaCar does not perform better in the Front Crash Test than the competitons comparable car.
+
+HA: The MechaCar does perform better in the Front Crash Test than the competitions comparable car.
 
 ### Testing & Data
 
